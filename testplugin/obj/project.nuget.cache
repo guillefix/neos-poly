@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mrJhRGCP1z0Di8qdXWizZjcB6Z+es3M8mOFtBfIEc3NMkYtcEa5nVFhziAv6MgzAePNchoPIi7up+1+McR9VOw==",
+  "success": true,
+  "projectFilePath": "D:\\code\\neos\\neos-poly\\testplugin\\testplugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guillermo Valle\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Guillermo Valle\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
