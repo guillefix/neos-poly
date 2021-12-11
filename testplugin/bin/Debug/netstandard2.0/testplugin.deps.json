@@ -11,7 +11,8 @@
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "BaseX": "1.0.0.0",
-          "FrooxEngine": "2021.6.10.457"
+          "CloudX.Shared": "1.0.0.0",
+          "FrooxEngine": "2021.11.10.1253"
         },
         "runtime": {
           "testplugin.dll": {}
@@ -31,10 +32,18 @@
           }
         }
       },
-      "FrooxEngine/2021.6.10.457": {
+      "CloudX.Shared/1.0.0.0": {
+        "runtime": {
+          "CloudX.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FrooxEngine/2021.11.10.1253": {
         "runtime": {
           "FrooxEngine.dll": {
-            "assemblyVersion": "2021.6.10.457",
+            "assemblyVersion": "2021.11.10.1253",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -103,19 +112,11 @@
           }
         }
       },
-      "LiteNetLib/1.0.7767.18715": {
+      "Octokit/0.50.0.0": {
         "runtime": {
-          "LiteNetLib.dll": {
-            "assemblyVersion": "1.0.7767.18715",
-            "fileVersion": "1.0.7767.18715"
-          }
-        }
-      },
-      "System.Threading.Tasks.Extensions/4.2.0.1": {
-        "runtime": {
-          "System.Threading.Tasks.Extensions.dll": {
-            "assemblyVersion": "4.2.0.1",
-            "fileVersion": "4.6.28619.1"
+          "Octokit.dll": {
+            "assemblyVersion": "0.50.0.0",
+            "fileVersion": "0.50.0.0"
           }
         }
       },
@@ -127,11 +128,43 @@
           }
         }
       },
-      "CloudX.Shared/1.0.0.0": {
+      "System.Threading.Tasks.Extensions/4.2.0.1": {
         "runtime": {
-          "CloudX.Shared.dll": {
+          "System.Threading.Tasks.Extensions.dll": {
+            "assemblyVersion": "4.2.0.1",
+            "fileVersion": "4.6.28619.1"
+          }
+        }
+      },
+      "Otp.NET/1.2.2.0": {
+        "runtime": {
+          "Otp.NET.dll": {
+            "assemblyVersion": "1.2.2.0",
+            "fileVersion": "1.2.2.0"
+          }
+        }
+      },
+      "SignalR.Strong/0.3.0.0": {
+        "runtime": {
+          "SignalR.Strong.dll": {
+            "assemblyVersion": "0.3.0.0",
+            "fileVersion": "0.3.0.0"
+          }
+        }
+      },
+      "LiteNetLib/1.0.0.0": {
+        "runtime": {
+          "LiteNetLib.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "QRCoder/1.4.2.0": {
+        "runtime": {
+          "QRCoder.dll": {
+            "assemblyVersion": "1.4.2.0",
+            "fileVersion": "1.4.2.0"
           }
         }
       },
@@ -140,6 +173,38 @@
           "System.Threading.Tasks.Dataflow.dll": {
             "assemblyVersion": "5.0.0.0",
             "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "BepuPhysics/2.4.0.1": {
+        "runtime": {
+          "BepuPhysics.dll": {
+            "assemblyVersion": "2.4.0.1",
+            "fileVersion": "2.4.0.1"
+          }
+        }
+      },
+      "BepuUtilities/2.4.0.1": {
+        "runtime": {
+          "BepuUtilities.dll": {
+            "assemblyVersion": "2.4.0.1",
+            "fileVersion": "2.4.0.1"
+          }
+        }
+      },
+      "System.Numerics.Vectors/4.1.4.0": {
+        "runtime": {
+          "System.Numerics.Vectors.dll": {
+            "assemblyVersion": "4.1.4.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "QuantityX/1.0.0.0": {
+        "runtime": {
+          "QuantityX.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -207,14 +272,6 @@
           }
         }
       },
-      "QuantityX/1.0.0.0": {
-        "runtime": {
-          "QuantityX.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "NYoutubeDL/0.10.8.0": {
         "runtime": {
           "NYoutubeDL.dll": {
@@ -247,10 +304,10 @@
           }
         }
       },
-      "CSCore/1.1.7617.17988": {
+      "CSCore/1.2.1.2": {
         "runtime": {
           "CSCore.dll": {
-            "assemblyVersion": "1.1.7617.17988",
+            "assemblyVersion": "1.2.1.2",
             "fileVersion": "0.0.0.0"
           }
         }
@@ -287,11 +344,11 @@
           }
         }
       },
-      "BEPUutilities/1.4.0.0": {
+      "System.Runtime.CompilerServices.Unsafe/5.0.0.0": {
         "runtime": {
-          "BEPUutilities.dll": {
-            "assemblyVersion": "1.4.0.0",
-            "fileVersion": "0.0.0.0"
+          "System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
           }
         }
       },
@@ -319,14 +376,6 @@
           }
         }
       },
-      "System.Numerics.Vectors/4.1.4.0": {
-        "runtime": {
-          "System.Numerics.Vectors.dll": {
-            "assemblyVersion": "4.1.4.0",
-            "fileVersion": "4.6.26515.6"
-          }
-        }
-      },
       "System.Buffers/4.0.3.0": {
         "runtime": {
           "System.Buffers.dll": {
@@ -348,6 +397,14 @@
           "System.Collections.Immutable.dll": {
             "assemblyVersion": "1.2.2.0",
             "fileVersion": "4.6.25519.3"
+          }
+        }
+      },
+      "SubtitlesParser/1.4.8.0": {
+        "runtime": {
+          "SubtitlesParser.dll": {
+            "assemblyVersion": "1.4.8.0",
+            "fileVersion": "1.4.8.0"
           }
         }
       },
@@ -447,11 +504,11 @@
           }
         }
       },
-      "Octokit/0.50.0.0": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0.0": {
         "runtime": {
-          "Octokit.dll": {
-            "assemblyVersion": "0.50.0.0",
-            "fileVersion": "0.50.0.0"
+          "Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
           }
         }
       },
@@ -511,11 +568,19 @@
           }
         }
       },
-      "NLayer/1.12.0.0": {
+      "NVorbis/0.9.1.0": {
+        "runtime": {
+          "NVorbis.dll": {
+            "assemblyVersion": "0.9.1.0",
+            "fileVersion": "0.9.1.0"
+          }
+        }
+      },
+      "NLayer/1.14.0.0": {
         "runtime": {
           "NLayer.dll": {
-            "assemblyVersion": "1.12.0.0",
-            "fileVersion": "1.12.0.0"
+            "assemblyVersion": "1.14.0.0",
+            "fileVersion": "1.14.0.0"
           }
         }
       },
@@ -586,7 +651,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "FrooxEngine/2021.6.10.457": {
+    "CloudX.Shared/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FrooxEngine/2021.11.10.1253": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -631,12 +701,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "LiteNetLib/1.0.7767.18715": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "System.Threading.Tasks.Extensions/4.2.0.1": {
+    "Octokit/0.50.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -646,12 +711,52 @@
       "serviceable": false,
       "sha512": ""
     },
-    "CloudX.Shared/1.0.0.0": {
+    "System.Threading.Tasks.Extensions/4.2.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Otp.NET/1.2.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SignalR.Strong/0.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LiteNetLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QRCoder/1.4.2.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
     "System.Threading.Tasks.Dataflow/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BepuPhysics/2.4.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BepuUtilities/2.4.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Numerics.Vectors/4.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuantityX/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -696,11 +801,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "QuantityX/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
     "NYoutubeDL/0.10.8.0": {
       "type": "reference",
       "serviceable": false,
@@ -721,7 +821,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "CSCore/1.1.7617.17988": {
+    "CSCore/1.2.1.2": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -746,7 +846,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "BEPUutilities/1.4.0.0": {
+    "System.Runtime.CompilerServices.Unsafe/5.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -766,11 +866,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "System.Numerics.Vectors/4.1.4.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
     "System.Buffers/4.0.3.0": {
       "type": "reference",
       "serviceable": false,
@@ -782,6 +877,11 @@
       "sha512": ""
     },
     "System.Collections.Immutable/1.2.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SubtitlesParser/1.4.8.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -846,7 +946,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Octokit/0.50.0.0": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -886,7 +986,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "NLayer/1.12.0.0": {
+    "NVorbis/0.9.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLayer/1.14.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

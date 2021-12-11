@@ -227,3 +227,14 @@ D:\code\neos\neos-poly\testplugin\obj\Debug\netstandard2.0\testplugin.csproj.Cor
 D:\code\neos\neos-poly\testplugin\obj\Debug\netstandard2.0\testplugin.csproj.CopyComplete
 D:\code\neos\neos-poly\testplugin\obj\Debug\netstandard2.0\testplugin.dll
 D:\code\neos\neos-poly\testplugin\obj\Debug\netstandard2.0\testplugin.pdb
+D:\code\neos\neos-poly\testplugin\bin\Debug\netstandard2.0\QRCoder.dll
+D:\code\neos\neos-poly\testplugin\bin\Debug\netstandard2.0\BepuPhysics.dll
+D:\code\neos\neos-poly\testplugin\bin\Debug\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\code\neos\neos-poly\testplugin\bin\Debug\netstandard2.0\SubtitlesParser.dll
+D:\code\neos\neos-poly\testplugin\bin\Debug\netstandard2.0\Otp.NET.dll
+D:\code\neos\neos-poly\testplugin\bin\Debug\netstandard2.0\SignalR.Strong.dll
+D:\code\neos\neos-poly\testplugin\bin\Debug\netstandard2.0\NVorbis.dll
+D:\code\neos\neos-poly\testplugin\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Program Files (x86)\Steam\steamapps\common\NeosVR\Libraries\netstandard2.0\testplugin.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\NeosVR\Libraries\netstandard2.0\testplugin.dll
+C:\Program Files (x86)\Steam\steamapps\common\NeosVR\Libraries\netstandard2.0\testplugin.pdb
